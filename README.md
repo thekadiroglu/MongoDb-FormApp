@@ -1,8 +1,9 @@
-# React + Vite
+# React + Vite + MongoDb
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Türkçe
+----------
+Bu uygulamada MongoDB ile bir form uygulaması yaptım. Form'a girilen bilgiler "gönder" butonuna basınca db'ye aktarılıyor. Silmek isterseniz kişinin yanındak "sil" butonuna tıklamanız yeterli. Düzenleme için ise "düzenle" butonu basıp ardından istediğiniz yerleri değiştirebilirsiniz.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+English
+----------
+In this application, I made a form application with MongoDB. The information entered in the form is transferred to the db when you press the "send" button. If you want to delete it, just click the "delete" button next to the person. For editing, you can press the "edit" button and then change the places you want.
